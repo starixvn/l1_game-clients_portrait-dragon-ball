@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "ยอดชนะรวม",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง",
         "Close": "ปิด"
+    },
+    "DragonBall": {
+        "game_icon_name": "ดราก้อน เพิร์ล",
+        "game_name": "ดราก้อน เพิร์ล"
     }
 };
 

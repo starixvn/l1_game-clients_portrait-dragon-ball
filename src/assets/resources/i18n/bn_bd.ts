@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "মোট জয়",
         "Unexpected_gift_code_error_message": " অপ্রত্যাশিত ত্রুটি ঘটেছে। পরে আবার চেষ্টা করুন।",
         "Close": "বন্ধ"
+    },
+    "DragonBall": {
+        "game_icon_name": "Dragon Pearl",
+        "game_name": "Dragon Pearl"
     }
 };
 
