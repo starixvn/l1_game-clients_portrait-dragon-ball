@@ -589,7 +589,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 2,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -686,8 +686,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 104.48,
-      "height": 40
+      "width": 110,
+      "height": 70
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -725,14 +725,14 @@
     "_string": "999",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 40,
-    "_fontSize": 40,
+    "_actualFontSize": 66,
+    "_fontSize": 70,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
-    "_overflow": 0,
+    "_overflow": 2,
     "_enableWrapText": false,
     "_font": {
-      "__uuid__": "e49580ed-07b3-4744-a16c-5778f7af09ca",
+      "__uuid__": "b6d0baee-729c-4d9f-9863-19f9068efb16",
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
@@ -943,6 +943,7 @@
     "nodeAutoSpin": {
       "__id__": 17
     },
+    "spineAutoSpin": null,
     "_id": ""
   },
   {
